@@ -1,6 +1,6 @@
 # Analysis on Sports Teams
 
-This project is part of Assignment 4, which involves analyzing data from the "Big 4" sports leagues (NBA, NHL, MLB, NFL) to identify correlations between league-specific variables.
+This project is part of Assignment 4 of the University of Michigan's Data Science and Python course, which involves analyzing data from the "Big 4" sports leagues (NBA, NHL, MLB, NFL) to identify correlations between league-specific variables.
 
 ## Objective
 
